@@ -8,6 +8,10 @@ Resource Allocation Burndown
 Project Overview
 ![image](https://github.com/WillMcGill/ServiceNow-Examples/assets/47223052/b650c200-3686-4599-8313-847426ecd788)
 
+Nested Score List
+<img width="1182" alt="image" src="https://github.com/WillMcGill/ServiceNow-Examples/assets/47223052/3dfee283-ae92-4c1e-acee-ec4262980eca">
+
+
 
 
 
