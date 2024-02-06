@@ -13,7 +13,7 @@ Project Overview
 
 
 Nested Score List
-<img width="1182" alt="image" src="https://github.com/WillMcGill/ServiceNow-Examples/assets/47223052/3dfee283-ae92-4c1e-acee-ec4262980eca">
+<img width="1150" alt="image" src="https://github.com/WillMcGill/ServiceNow-Examples/assets/47223052/3dfee283-ae92-4c1e-acee-ec4262980eca">
 
 
 
